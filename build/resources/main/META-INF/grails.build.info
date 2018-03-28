@@ -1,0 +1,6 @@
+#Tue, 27 Mar 2018 20:24:12 -0400
+
+info.app.version=0.1
+info.app.name=complete
+grails.env=development
+info.app.grailsVersion=3.3.1
